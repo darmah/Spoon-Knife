@@ -1,0 +1,38 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="style.css">
+<title>African Safari Tours -Contact Us</title>
+</head>
+
+<body background ="lion2.jpg">>
+<table id="navtop">
+                <tr>
+                    <td class="navtopspacer"><span></span></td>
+                    <td class="tableft"><a href='javascript:void(0);' class='SearchTab tabsearchunsel'>search</a></td><td class="tab"><a href='/africa/zimbabwe/' class='unsel'>locations</a></td><td class="tab"><a href='/resources/' class='unsel'>resources</a></td><td class="tab"><a href='/safaris/' class='sel'>safaris</a></td><td class="tab"><a href='/wishlist/' class='unsel'>wishlist</a></td><td class="tab"><a href='/members/' class='unsel'>members</a></td><td class="tab"><a href='/aboutus/intro/' class='unsel'>about</a></td><td class="tab"><a href='/contactus/' class='unsel'>contact</a></span></td>
+                </tr>
+            </table>
+
+<div class="container">
+  <div class="content">
+    <center> <img src="images/Banner.jpg" /> </center>
+    <hr />
+      <center><font size="+2"><a href="index.html"> Home</a> | <a href="destination.html"> Destination</a> | <a href="Special offers.html"> Special Offers</a> | <a href="about us.html"> About Us</a> | <a href="contact.html"> Contact Us</a> </font></center>
+      <hr />
+This is my Contact page
+
+<table width="100%" cellspacing="2" cellpadding="1">
+   <tr>
+    <td><a href="http://www.facebook.com"><img src="images/images2.jpg" width="300" height="100" longdesc="images/images2.jpg"></a></td>
+    <td><a href="http://www.twitter.com"><img src="images/twitter1.jpg" width="305" height="165" longdesc="images/twitter1.jpg"></a></td>
+  </tr>
+</table>
+
+
+<h5 align="center" style="font:Arial, Helvetica, sans-serif; font-size:24px; font-style:italic"><a href="mailto:AfricanSafariTours@hotmail.com">Email Us</a></h5>
+
+</div>
+ </div>
+
+</body>
+</html>
